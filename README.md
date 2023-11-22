@@ -8,7 +8,9 @@
 
 - My games:
 
-- The Last Man Standing / https://eecorp.itch.io/the-last-man-standing
+- The Last Man Standing / https://emirgecgin.itch.io/the-last-man-standing
+
+- Lost In Galaxy / https://emirgecgin.itch.io/lost-in-galaxy
 
 - The Astronaut / https://play.google.com/store/apps/details?id=com.DefaultCompany.TheAstronaut&gl=TR
 
