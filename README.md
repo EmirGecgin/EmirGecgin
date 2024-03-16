@@ -2,7 +2,9 @@
 
 
 
-- 🔭 I’m studying Software Engineering and Digital Game Design at Istınye University.
+- 🎓 I’m studying Software Engineering and Digital Game Design at Istınye University.
+
+- 🔭 Trainee at Only Js Academy.
 
 - 🌱 I’m currently learning Html, CSS, JavaScript.
 
