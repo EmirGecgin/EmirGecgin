@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying Software Engineering and Digital Game Design at Istınye University.
 
-- 🌱 I’m currently learning C# and Unity.
+- 🌱 I’m currently learning Html, CSS, JavaScript.
 
 - My games:
 
