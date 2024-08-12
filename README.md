@@ -6,7 +6,7 @@
 
 - 🔭 Trainee at Only Js Academy.
 
-- 🌱 I’m currently learning Html, CSS, JavaScript.
+- 🌱 I’m currently learning Html, CSS, JavaScript, and C#.
 
 - My games:
 
