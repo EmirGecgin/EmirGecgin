@@ -6,8 +6,8 @@ Game developer and software engineer from Istanbul, building games and full-stac
 - 🌱 Tech: C#, Unity, ASP.NET, React + TypeScript, Vue, Django, PostgreSQL
 
 ### 🏆 Highlighted Projects
-- **[HybridRecruiter]** — Accepted by TÜBİTAK. 
-- **[QarMenu]** — Accepted into the Bilişim Vadisi (Turkey's IT Valley) pre-incubation program.
+- **HybridRecruiter** — Accepted by TÜBİTAK. 
+- **QarMenu** — Accepted into the Bilişim Vadisi (Turkey's IT Valley) pre-incubation program.
 - **RapidQuiz** — Fast-paced quiz app (Vue + Django + PostgreSQL, deployed on DigitalOcean). *In progress.*
 
 ### 🎮 Games
